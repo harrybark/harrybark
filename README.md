@@ -20,8 +20,10 @@
 </p>
 <p>
   <a href="https://www.oracle.com/kr/index.html">
-    <img src="https://img.shields.io/badge/Oracle-20232A?style=flat-square&logo=Oracle&logoColor=ff69b4"
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   </a>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
 
 ### 📫 Contact me:
