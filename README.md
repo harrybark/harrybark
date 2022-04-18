@@ -1,5 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Minwoo Park(DEV HARRY)
-
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Minwoo Park. Please be noted below
 ### 🔭 Blog:
 <a href="https://velog.io/@devharrypmw">
   <img src="https://img.shields.io/badge/blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
