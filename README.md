@@ -2,7 +2,7 @@
 
 ### 🔭 Blog:
 <a href="https://velog.io/@devharrypmw">
-  <img src="https://img.shields.io/badge/Tech blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
 <a/>
  
 <br />
