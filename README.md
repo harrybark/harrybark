@@ -20,7 +20,7 @@
 </p>
 <p>
   <a href="https://www.oracle.com/kr/index.html">
-    <img src="https://img.shields.io/badge/Oracle-Oracle?style=flat-square&logo=Oracle&logoColor=ff69b4"
+    <img src="https://img.shields.io/badge/Oracle-20232A?style=flat-square&logo=Oracle&logoColor=ff69b4"
   </a>
 </p>
 
