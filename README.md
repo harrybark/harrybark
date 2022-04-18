@@ -21,10 +21,10 @@
 ### 📫 Contact me:
 <p>
 <a href="https://github.com/harrybark">
-  <img src="https://img.shields.io/badge/fredkeemhaus-20232A?style=flat-square&logo=GitHub&logoColor=FFFFFE" />
+  <img src="https://img.shields.io/badge/harrybark-20232A?style=flat-square&logo=GitHub&logoColor=FFFFFE" />
 <a/>
   <a href="mailto:devharrypmw@gmail.com">
-  <img src="https://img.shields.io/badge/fredkeemhaus@gmail.com-20232A?style=flat-square&logo=Gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/devharrypmw@gmail.com-20232A?style=flat-square&logo=Gmail&logoColor=EA4335" />
 <a/>
 </p>
 
