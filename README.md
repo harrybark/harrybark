@@ -19,8 +19,8 @@
   <a/>
 </p>
 <p>
-  <a href="https://>
-    <img src="https://img.shields.io/badge/oracle-oracel-ff69b4"
+  <a href="https://www.oracle.com/kr/index.html">
+    <img src="https://img.shields.io/badge/Oracle-Oracle?style=flat-square&logo=Oracle&logoColor=ff69b4"
   </a>
 </p>
 
