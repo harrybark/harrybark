@@ -7,15 +7,22 @@
 <br />
 
 ### 💻 Tech stack:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML-20232A?style=flat-square&logo=HTML5&logoColor=E34F26" />
-<a/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=CSS3&logoColor=1572B6" />
-<a/>
-<a href="https://git-scm.com">
-  <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=Git&logoColor=F05032" />
-<a/>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML-20232A?style=flat-square&logo=HTML5&logoColor=E34F26" />
+  <a/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=CSS3&logoColor=1572B6" />
+  <a/>
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=Git&logoColor=F05032" />
+  <a/>
+</p>
+<p>
+  <a href="https://>
+    <img src="https://img.shields.io/badge/oracle-oracel-ff69b4"
+  </a>
+</p>
 
 ### 📫 Contact me:
 <p>
