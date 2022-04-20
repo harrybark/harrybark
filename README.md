@@ -1,3 +1,4 @@
+
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Minwoo Park. Please be noted below
 <!-- ### 🔭 Blog: -->
 
@@ -7,20 +8,28 @@
 ### 💻 Tech stack:
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML-20232A?style=flat-square&logo=HTML5&logoColor=E34F26" />
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <a/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=CSS3&logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <a/>
   <a href="https://git-scm.com">
-    <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=Git&logoColor=F05032" />
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <a/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
-</p>
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
+</p>   
+<!--   
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
@@ -31,7 +40,7 @@
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
     </p>    
-
+-->
 ### 📫 Contact me:
 <p>
 <a href="https://github.com/harrybark">
