@@ -1,12 +1,39 @@
 
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Minwoo Park. Please be noted below
+### Hi there 👋
+I'm Minwoo Park. <br>
+I am a faithful hard worker, preferring to live to a certain routine everyday so that I can have my life with full of productivity. <br>
+Please be noted below.
 <!-- ### 🔭 Blog: -->
-
- 
+If you want to know more about me <a href="#" rel="nofollow">`👉 Click Here`</a>
 <br />
 
-### 💻 Tech stack:
+### 📫 Contact me:
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/imightlookgood/)](https://www.instagram.com/imightlookgood/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devharrypmw@gmail.com)](mailto:devharrypmw@gmail.com) 
 
+### ⌨️ Experience
+- Software Engineering - SoftOne, Inc   <sub>&nbsp;&nbsp;&nbsp; Seoul, Korea&nbsp;&nbsp;&nbsp;   (Mar 2022 - )</sub></br>
+- Software Engineering - Doit, Inc   <sub>&nbsp;&nbsp;&nbsp; Seoul, Korea&nbsp;&nbsp;&nbsp;   (May 2019 - Jan 2022)</sub></br>
+
+
+<!--
+<p>
+<a href="https://github.com/harrybark">
+  <img src="https://img.shields.io/badge/harrybark-20232A?style=flat-square&logo=GitHub&logoColor=FFFFFE" />
+<a/>
+  <a href="mailto:devharrypmw@gmail.com">
+  <img src="https://img.shields.io/badge/devharrypmw@gmail.com-20232A?style=flat-square&logo=Gmail&logoColor=EA4335" />
+<a/>
+<a href="https://velog.io/@devharrypmw">
+  <img src="https://img.shields.io/badge/blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
+<a/>    
+</p>
+-->
+  
+![harrybark's github stats](https://github-readme-stats.vercel.app/api?username=harrybark&show_icons=true)
+
+<!--
+### 💻 Tech stack:
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -48,22 +75,7 @@
       <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
  </a>
 <br>   
-   
-### 📫 Contact me:
-<p>
-<a href="https://github.com/harrybark">
-  <img src="https://img.shields.io/badge/harrybark-20232A?style=flat-square&logo=GitHub&logoColor=FFFFFE" />
-<a/>
-  <a href="mailto:devharrypmw@gmail.com">
-  <img src="https://img.shields.io/badge/devharrypmw@gmail.com-20232A?style=flat-square&logo=Gmail&logoColor=EA4335" />
-<a/>
-<a href="https://velog.io/@devharrypmw">
-  <img src="https://img.shields.io/badge/blog-20232A?style=flat-square&logo=GitBook&logoColor=F05032" />
-<a/>    
-</p>
-
-  
-![harrybark's github stats](https://github-readme-stats.vercel.app/api?username=harrybark&show_icons=true)
+-->
 <!--
 **harrybark/harrybark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
