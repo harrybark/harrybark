@@ -4,7 +4,7 @@ I'm Minwoo Park. <br>
 I am a faithful hard worker, preferring to live to a certain routine everyday so that I can have my life with full of productivity. <br>
 Please be noted below.
 <!-- ### 🔭 Blog: -->
-If you want to know more about me <a href="#" rel="nofollow">`👉 Click Here`</a>
+If you want to know more about me <a href="#" rel="nofollow">`👉 Click Here`(not yet)</a>
 <br />
 
 ### 📫 Contact me:
